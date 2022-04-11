@@ -1,0 +1,30 @@
+[
+    {
+        "hero": "Lula 4/3",
+        "msg": "LULA 2022",
+        "buff": 0,
+        "vida": 4,
+        "ataque": 3
+    },
+    {
+        "hero": "Locke 2/5",
+        "msg": "Locke: Sempre considerei as ações dos homens como as melhores intérpretes dos seus pensamentos",
+        "buff": 0,
+        "vida": 2,
+        "ataque": 5
+    },
+    {
+        "hero": "Marx 1/4",
+        "msg": "Filósofos do mundo, Uni-vos!! Marx buffa o ataque do time em 2",
+        "buff": 1,
+        "vida": 4,
+        "ataque": 1
+    },
+    {
+        "hero": "Pizzaiolo 1/4",
+        "msg": "Pizzaiolo tira 1 de ataque do dragão",
+        "buff": 2,
+        "vida": 4,
+        "ataque": 1
+    }
+]
