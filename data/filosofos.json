@@ -1,5 +1,6 @@
 [
     {
+        "cid": "squid",
         "hero": "Lula 4/3",
         "msg": "LULA 2022",
         "buff": 0,
@@ -7,6 +8,7 @@
         "ataque": 3
     },
     {
+        "cid": "lock",
         "hero": "Locke 2/5",
         "msg": "Locke: Sempre considerei as ações dos homens como as melhores intérpretes dos seus pensamentos",
         "buff": 0,
@@ -14,6 +16,7 @@
         "ataque": 5
     },
     {
+        "cid": "unite",
         "hero": "Marx 1/4",
         "msg": "Filósofos do mundo, Uni-vos!! Marx buffa o ataque do time em 2",
         "buff": 1,
@@ -21,6 +24,7 @@
         "ataque": 1
     },
     {
+        "cid": "pizza",
         "hero": "Pizzaiolo 1/4",
         "msg": "Pizzaiolo tira 1 de ataque do dragão",
         "buff": 2,
